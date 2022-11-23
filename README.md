@@ -1,4 +1,4 @@
-Utilizando biblioteca PANDAS e SEABORN
+Utilizando biblioteca PANDAS e SEABORN</br>
 Importando dataset (CSV)
 Renomeando colunas
 Traduzindo termos do dataset para PT-BR
