@@ -1,4 +1,4 @@
-Utilizando biblioteca PANDAS e SEABORN</br>
+<ol>Utilizando biblioteca PANDAS e SEABORN</br>
 Importando dataset (CSV)
 Renomeando colunas
 Traduzindo termos do dataset para PT-BR
@@ -9,3 +9,4 @@ Relação entre Pedir sobremesa e Valor da gorjetas pagas
 Criação de pares de gráficos comparativos
 Teste de hipótese
 Relação entre Dias da semana e Gorjetas pagas
+</ol>
