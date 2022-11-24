@@ -6,13 +6,13 @@ ANÁLISE ESTATÍSTICA DAS GORJETAS PAGAS</br>
 -Análise I - Relação entre 'valor_da_conta' e 'gorjeta'</br>
 </br>
 -Análise II - Relação entre pedir 'sobremesa' e 'gorjeta' paga</br>
-- - Teste de hipótese da sobremesa</br>
+--teste de hipótese da sobremesa</br>
 </br>
 -Análise III - Relação entre 'dia_da_semana' e 'gorjeta'</br>
-- - Cálculo das médias para cada dia</br>
-- - Teste de Hipótese dos dias da semana</br>
-- - - Sábado e Domingo</br>
-- - - Quinta e Sexta</br>
+--Cálculo das médias para cada dia</br>
+--Teste de Hipótese dos dias da semana</br>
+---Sábado e Domingo</br>
+---Quinta e Sexta</br>
 </br>
 -Análise IV - Relação entre 'hora_do_dia' e 'gorjeta'</br>
-- - Teste de hipótese das refeições</br>
+--Teste de hipótese das refeições</br>
