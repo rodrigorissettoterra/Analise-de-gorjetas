@@ -7,7 +7,7 @@
 <b>ANÁLISE:</b></br>
 Análise I - Relação entre 'valor_da_conta' e 'gorjeta'</br>
 Análise II - Relação entre pedir 'sobremesa' e 'gorjeta' paga</br>
-- *Teste de hipótese da sobremesa*</br>
+- *Teste de hipótese da sobremesa*</br> - 
 Análise III - Relação entre 'dia_da_semana' e 'gorjeta'</br>
      - *Cálculo das médias para cada dia*</br>
      - *Teste de Hipótese dos dias da semana*</br>
