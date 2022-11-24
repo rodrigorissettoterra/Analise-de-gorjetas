@@ -1,4 +1,4 @@
-Análise estatística das gorjetas pagas.</br>
+Análise estatística das gorjetas pagas.</br></br>
 Importando bibliotecas e da base de dados</br>
 Renomeando colunas</br>
 Traduzindo termos da base dados</br>
