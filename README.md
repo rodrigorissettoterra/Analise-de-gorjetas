@@ -1,7 +1,7 @@
 ANÁLISE ESTATÍSTICA DAS GORJETAS PAGAS</br>
-- Importando bibliotecas e da base de dados</br>
-- Renomeando colunas</br>
-- Traduzindo termos da base dados</br>
+-Importando bibliotecas e da base de dados</br>
+-Renomeando colunas</br>
+-Traduzindo termos da base dados</br>
 
 -Análise I - Relação entre 'valor_da_conta' e 'gorjeta'</br>
 </br>
