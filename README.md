@@ -1,17 +1,33 @@
-<b>ANÁLISE ESTATÍSTICA DAS GORJETAS PAGAS</b></br></br></br>
-<b>ETL:</b></br>
-Importando bibliotecas e da base de dados</br>
-Renomeando colunas</br>
-Traduzindo termos da base dados</br>
+<strong>ANÁLISE ESTATÍSTICA DAS GORJETAS PAGAS</strong>
 
-<b>ANÁLISE:</b></br>
-Análise I - Relação entre 'valor_da_conta' e 'gorjeta'</br>
-Análise II - Relação entre pedir 'sobremesa' e 'gorjeta' paga</br>
-- *Teste de hipótese da sobremesa*</p>
-Análise III - Relação entre 'dia_da_semana' e 'gorjeta'</br>
-- *Cálculo das médias para cada dia*</br>
-- *Teste de Hipótese dos dias da semana*</br>
-     - *Sábado e Domingo*</br>
-     - *Quinta e Sexta*</br></p>
-Análise IV - Relação entre 'hora_do_dia' e 'gorjeta'</br>
-- *Teste de hipótese das refeições*</br>
+<strong>ETL:</strong>
+<ul>
+ 	<li>Importando bibliotecas e da base de dados</li>
+ 	<li>Renomeando colunas</li>
+ 	<li>Traduzindo termos da base dados</li>
+</ul>
+<strong>ANÁLISE:</strong>
+<ul>
+ 	<li>Análise I - Relação entre 'valor_da_conta' e 'gorjeta'</li>
+ 	<li>Análise II - Relação entre pedir 'sobremesa' e 'gorjeta' paga
+<ul>
+ 	<li>Teste de hipótese da sobremesa*</li>
+</ul>
+</li>
+ 	<li>Análise III - Relação entre 'dia_da_semana' e 'gorjeta'
+<ul>
+ 	<li>Cálculo das médias para cada dia</li>
+ 	<li>Teste de Hipótese dos dias da semana
+<ul>
+ 	<li>Sábado e Domingo*</li>
+ 	<li>Quinta e Sexta*</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>Análise IV - Relação entre 'hora_do_dia' e 'gorjeta'
+<ul>
+ 	<li>Teste de hipótese das refeições</li>
+</ul>
+</li>
+</ul>
